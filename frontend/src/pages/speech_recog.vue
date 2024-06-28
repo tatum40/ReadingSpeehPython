@@ -29,7 +29,7 @@ const message = ref('');
 const audioUrl = ref('');
 const sentenceTimings = ref([]);
 const currentSentenceIndex = ref(-1);
-const text = ref(` Elephants are the biggest land mammals. They have enormous ears, long noses or trunks and tusks. They can weigh more than 10 tons or six cars.
+const text = ref(` Elephants are the biggest land mammals. They have enormous ears, long noses or trunks and tusks. They can weigh more than 10 tons or six cars. His trunk is used for smelling, breathing, trumpeting, drinking, and also for grabbing things. Elephants are social animals. They take care of each other. They can live up to 70 years.
       `);
 
 
